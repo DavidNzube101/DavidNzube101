@@ -1,16 +1,21 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="https://res.cloudinary.com/dzlr5fyrx/image/upload/c_crop,ar_1:1/v1745099794/dxbg22e9qmsoxozjesjf.jpg" /></a></p>
 
 <br />
 
-I'm a self-taught passionate FrontEnd developer from India 🇮🇳
+Fullstack Developer
 
 **About me**
 
-- 💼 FrontEnd Engineer at [Razorpay](http://razorpay.com/)
-
-- 📈 Built github-readme-stats, verlyjs and more, **50m+** hits • **50K** stars on GitHub
-
-- ❤️ I love writing TypeScript, and building fun experiments on type-level
+- A.K.A Skipp
+- Software Engineer
+- Fullstack Web Developer
+- Blockchain Developer on Solana & ICP
+- LFC-YNWA
+- Bounty Hunter  [@SuperteamEarn](https://x.com/SuperteamEarn)
+- Member [@SuperteamNG](https://x.com/SuperteamNG)
+- Building Aether Fit
+  - 🐤 [@AetherFit](https://x.com/AetherFit)
+  - 🌐 [AetherFit](https://aether-fit.vercel.app)
 
 - 💬 Ask me about anything [here](https://github.com/anuraghazra/anuraghazra/issues)
 
