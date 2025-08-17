@@ -7,7 +7,7 @@
 - A.K.A Skipp
 - Software Engineer x Fullstack Web Developer
 - Blockchain Developer on [Solana](https://x.com/solana) & [ICP](https://x.com/dfinity)
-- Bounty Hunter  [@SuperteamEarn](https://x.com/SuperteamEarn/t/Skipp)
+- Bounty Hunter  [@SuperteamEarn](https://earn.SuperteamEarn.fun/t/Skipp)
 - Contributor [@Superteam](https://x.com/Superteam)
 
 #### Top Repos
