@@ -7,11 +7,8 @@
 - A.K.A Skipp
 - Software Engineer x Fullstack Web Developer
 - Blockchain Developer on [Solana](https://x.com/solana) & [ICP](https://x.com/dfinity)
-- Bounty Hunter  [@SuperteamEarn](https://x.com/SuperteamEarn)
-- Contributor [@Superteam](https://x.com/Superteam) X [@SuperteamNG](https://x.com/SuperteamNG)
-- Building Aether Fit
-  - 🐤 [@AetherFit](https://x.com/AetherFit)
-  - 🌐 [AetherFit](https://aether-fit.vercel.app)
+- Bounty Hunter  [@SuperteamEarn](https://x.com/SuperteamEarn/t/Skipp)
+- Contributor [@Superteam](https://x.com/Superteam)
 
 #### Top Repos
 
