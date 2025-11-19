@@ -14,10 +14,10 @@
 
 
 <a href="https://github.com/DavidNzube101/pipeline-templates">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidNzube101&repo=pipeline-templates&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidNzube101&repo=go-arkham-oracle-sdk&theme=buefy" />
 </a>
 <a href="https://github.com/DavidNzube101/SarahDB">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidNzube101&repo=SarahDB&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Arkham-dVPN&repo=arkham-oracle-sdk&theme=buefy" />
 </a>
 
 <br />
