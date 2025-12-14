@@ -16,8 +16,8 @@
 <a href="https://github.com/DavidNzube101/go-arkham-oracle-sdk">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidNzube101&repo=go-arkham-oracle-sdk&theme=buefy" />
 </a>
-<a href="https://github.com/Arkham-dVPN/arkham-oracle-sdk">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Arkham-dVPN&repo=arkham-oracle-sdk&theme=buefy" />
+<a href="https://github.com/DavidNzube101/xandeum-prpc-go">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidNzube101&repo=xandeum-prpc-go&theme=buefy" />
 </a>
 
 <br />
