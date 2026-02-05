@@ -15,8 +15,8 @@
 - NestJS
 
 #### Worked at
-- [QPAY](x.com/qpaylabs) | `BE` | [hashtag.qpay.finance](hashtag.qpay.finance)
-- [SuperteamNG](x.com/superteamng) | `BE` + `FE` | [products.superteamng.fun](products.superteamng.fun)
+- [QPAY](https://x.com/qpaylabs) | `BE` | [hashtag.qpay.finance](https://hashtag.qpay.finance)
+- [SuperteamNG](https://x.com/superteamng) | `BE` + `FE` | [product.superteamng.fun](https://product.superteamng.fun)
 
 #### What i've built
 - `ZARKHAM`: Private Bandwidth Sharing
