@@ -23,3 +23,7 @@
 - `Gorbag`: Native Asset Wallet for the [Gorbagana](https://gorbagana.xyz) Network
 - `Lakha`: Experimental L1 in `Python`. Read about my somewhat novel consensus-> [here](https://medium.com/@davidnzube/proof-of-contribution-stake-why-your-blockchain-needs-more-than-just-money-4db6720c4f93)
 - `SarahDB`: JSON-based document database
+
+<p align="center">
+  <img src="bg.jpeg"/>
+</p>
