@@ -25,5 +25,5 @@
 - `SarahDB`: JSON-based document database
 
 <p align="center">
-  <img src="bg.jpeg"/>
+  <img src="bg.jpeg" width="100%" />
 </p>
