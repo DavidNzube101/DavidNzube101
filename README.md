@@ -1,28 +1,25 @@
 <hr />
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DavidNzube101&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="David's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DavidNzube101&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
-
-**Brief Desc.**
+#### Brief Desc.
 - A.K.A Skipp
-- Software Engineer x Fullstack Web Developer
-- Blockchain Developer on [Solana](https://x.com/solana) & [ICP](https://x.com/dfinity)
+- Backend + Blockchain Engineer
+- Onchain w/ [`Solana`](https://x.com/solana); [`ICP`](https://x.com/dfinity)
 - Bounty Hunter  [@SuperteamEarn](https://earn.SuperteamEarn.fun/t/Skipp)
-- Contributor [@Superteam](https://x.com/Superteam)
 
-#### Top Repos
+#### Tools
+- Go
+- Rust (Anchor)
+- Python
+- Svelte/SvelteKit
+- Typescript
+- NestJS
 
+#### Worked at
+- [QPAY](x.com/qpaylabs) | `BE` | [hashtag.qpay.finance](hashtag.qpay.finance)
+- [SuperteamNG](x.com/superteamng) | `BE` + `FE` | [products.superteamng.fun](products.superteamng.fun)
 
-<a href="https://github.com/DavidNzube101/go-arkham-oracle-sdk">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidNzube101&repo=go-arkham-oracle-sdk&theme=buefy" />
-</a>
-<a href="https://github.com/DavidNzube101/xandeum-prpc-go">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DavidNzube101&repo=xandeum-prpc-go&theme=buefy" />
-</a>
-
-<br />
-<br />
-
-<a href="https://twitter.com/DavidNzube101">
-  <img align="right" alt="David Nzube | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
+#### What i've built
+- `ZARKHAM`: Private Bandwidth Sharing
+- `Gorbag`: Native Asset Wallet for the Gorbagana Network
+- `Lakha`: Experimental L1 in `Python`. Read about my somewhat novel consensus-> [here](https://medium.com/@davidnzube/proof-of-contribution-stake-why-your-blockchain-needs-more-than-just-money-4db6720c4f93)
+- `SarahDB`: JSON-based document database
