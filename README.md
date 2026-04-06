@@ -15,7 +15,7 @@
 - NestJS
 
 #### Worked at
-- [Juncta](https://x.com/juncta.xyz) | `Backend Engineer` | [juncta.xyz](https://juncta.xyz)
+- [Juncta](https://x.com/junctaxyz) | `Backend Engineer` | [juncta.xyz](https://juncta.xyz)
 - [CelerFi](https://x.com/celerfi) | `Backend Engineer` | [celerfi.network](https://celerfi.network)
 - [QPAY](https://x.com/qpaylabs) | `Backend Engineer` | [hashtag.qpay.finance](https://hashtag.qpay.finance)
 - [SuperteamNG](https://x.com/superteamng) | `Fullstack Engineer` | [product.superteamng.fun](https://product.superteamng.fun)
