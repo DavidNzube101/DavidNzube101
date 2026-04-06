@@ -3,7 +3,7 @@
 #### Brief Desc.
 - A.K.A Skipp
 - Backend + Blockchain Engineer
-- Onchain w/ [`Solana`](https://x.com/solana) | [`ICP`](https://x.com/dfinity) | [`Cedra`](https://x.com/cedranetwork) | [`Aptos`](https://x.com/aptos)
+- Onchain w/ [`Solana`](https://x.com/solana) | [`ICP`](https://x.com/dfinity) | [`Cedra`](https://x.com/cedranetwork) | [`Aptos`](https://x.com/aptos) | [`Base`](https://x.com/base)
 - Bounty Hunter  [@SuperteamEarn](https://superteam.fun/earn/t/Skipp) | `3x` Wins
 
 #### Tools
