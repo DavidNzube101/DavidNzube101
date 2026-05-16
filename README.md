@@ -21,7 +21,7 @@
 - [SuperteamNG](https://x.com/superteamng) | `Fullstack Engineer` | [product.superteamng.fun](https://product.superteamng.fun)
 
 #### What i've built
-- `Beacon`: Verifiable Agents Protocol. Make repositories agent ready in seconds. [Beacon](https://beaconcloud.org)
+- `Beacon`: Verifiable Agents Protocol. Make repositories agent ready in seconds. [Beacon](https://github.com/davidnzube101/beacon)
 - `LogStellar`: Really Fast Observability Engine + Log Indexer for [Solana](https://solana.com)
 - `ZARKHAM`: Private Bandwidth Sharing
 - `Gorbag`: Native Asset Wallet for the [Gorbagana](https://gorbagana.xyz) Network
