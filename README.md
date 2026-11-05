@@ -2,6 +2,7 @@
 
 #### Brief Desc.
 - A.K.A Skipp
+- Creator [`cedra-go-kit`](https://github.com/celerfi/cedra-go-kit)
 - Backend + Blockchain Engineer
 - Onchain w/ [`Solana`](https://x.com/solana) | [`ICP`](https://x.com/dfinity) | [`Polygon`](https://x.com/0xPolygon) | [`Cedra`](https://x.com/cedranetwork) | [`Aptos`](https://x.com/aptos) | [`Base`](https://x.com/base)
 - Bounty Hunter  [@SuperteamEarn](https://superteam.fun/earn/t/Skipp) | `3x` Wins
